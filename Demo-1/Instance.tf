@@ -4,6 +4,6 @@ resource "aws_vpc" "name" {
 
     #s3 bucket added 
     #acess level is private 
-
+#acess
     }
   
